@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 .venv/
+
+# 本地注入的私密规格（仓库只保留 *.template.md）
+format/本地格式规格.md
+workflow/本地交付规格.md
+workflow/legacy/
+local-backup/
