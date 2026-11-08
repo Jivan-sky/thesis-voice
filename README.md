@@ -142,8 +142,7 @@ thesis-voice/
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/Jivan-sky"><img src="https://github.com/Jivan-sky.png?size=160" width="96" alt="Jivan-sky"></a><br>
-  <b>@Jivan-sky</b><br>
-  <a href="https://github.com/Jivan-sky">@Jivan-sky</a><br>
+  <b><a href="https://github.com/Jivan-sky">@Jivan-sky</a></b><br>
   <sub>选题、41 篇语料、导师批注、实测验证</sub>
 </td>
 <td align="center" width="50%">
