@@ -146,7 +146,7 @@ thesis-voice/
   <sub>选题、41 篇语料、导师批注、实测验证</sub>
 </td>
 <td align="center" width="50%">
-  <img src="assets/agent-avatar.svg" width="96" alt="DeepSeek Harness"><br>
+  <img src="assets/dsh-avatar.jpg" width="96" height="96" style="border-radius:50%" alt="DeepSeek Harness"><br>
   <b>DeepSeek Harness</b><br>
   <sub>文风蒸馏、规则归纳、脚本与核校</sub>
 </td>
