@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="DeepSeek Harness">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1c3d5a"/>
+      <stop offset="100%" stop-color="#0b1f2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="url(#g)"/>
+  <path d="M52 118c14-6 26-16 36-32 8-13 15-20 24-20 12 0 20 9 20 21 0 17-15 31-38 31-9 0-17-1-24-3-6 4-12 7-18 9z"
+        fill="none" stroke="#e8f1f8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="86" r="7" fill="#7ec8e3"/>
+  <text x="100" y="168" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif"
+        font-size="26" font-weight="600" fill="#9fb8c9" text-anchor="middle" letter-spacing="3">DSH</text>
+</svg>

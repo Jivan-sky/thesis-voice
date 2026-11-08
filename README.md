@@ -136,6 +136,27 @@ thesis-voice/
 
 ---
 
+## 作者
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/Jivan-sky"><img src="https://github.com/Jivan-sky.png?size=160" width="96" alt="Jivan-sky"></a><br>
+  <b>@Jivan-sky</b><br>
+  <a href="https://github.com/Jivan-sky">@Jivan-sky</a><br>
+  <sub>选题、41 篇语料、导师批注、实测验证</sub>
+</td>
+<td align="center" width="50%">
+  <img src="assets/agent-avatar.svg" width="96" alt="DeepSeek Harness"><br>
+  <b>DeepSeek Harness</b><br>
+  <sub>文风蒸馏、规则归纳、脚本与核校</sub>
+</td>
+</tr>
+</table>
+
+语料的取舍、阈值的方向、以及"什么算合格"由第一作者判断；第二作者负责把 41 篇读成可计算的指标、把批注归纳成动作，并在每一次改动后跑回归验证。
+
+
 ## License
 
 MIT。`references/03-句式库.md` 中的原句引自公开学位论文与期刊论文，仅作句式示例，版权归原作者。
