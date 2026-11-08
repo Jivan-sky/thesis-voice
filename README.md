@@ -49,14 +49,14 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Jivan-sky/thesis-voice-repo.git ~/.claude/skills/thesis-voice
+git clone https://github.com/Jivan-sky/thesis-voice.git ~/.claude/skills/thesis-voice
 ```
 
 或用软链，方便后续 `git pull`：
 
 ```bash
-ln -s "$(pwd)/thesis-voice-repo" ~/.claude/skills/thesis-voice
-ln -s "$(pwd)/thesis-voice-repo" ~/.agents/skills/thesis-voice   # 如果运行时读这个目录
+ln -s "$(pwd)/thesis-voice" ~/.claude/skills/thesis-voice
+ln -s "$(pwd)/thesis-voice" ~/.agents/skills/thesis-voice   # 如果运行时读这个目录
 ```
 
 ---
