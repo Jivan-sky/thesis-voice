@@ -8,3 +8,6 @@ format/本地格式规格.md
 workflow/本地交付规格.md
 workflow/legacy/
 local-backup/
+
+# 外部参考件（第三方 skill 原包，不转发）
+refs/
